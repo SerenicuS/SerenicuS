@@ -33,10 +33,10 @@ I'm an aspiring **Systems Programmer** who loves tinkering with everything from 
 | Event Type | Count | Description |
 |------------|-------|-------------|
 | 🚀 Hackathons | 1 | 24hrs non-stop app building |
-| 🎯 Pitching Competitions | 2 | Presenting ideas to judges |
+| 🎯 Pitching Competitions | 3 | Presenting ideas |
 | 💻 Programming Competitions | 1 | Competitive coding challenges |
 | 🛡️ CTF Events | 2 | Cybersecurity challenges |
 
 ---
 
-> **PS:** If my programming skills aren't too impressive, I can give you a poem if you want 😏
+> **PS:**If my programming skills don't impress you, maybe my poetry skills will 😏.
