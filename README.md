@@ -19,7 +19,7 @@ I'm an aspiring **Systems Programmer** who loves tinkering with everything from 
 
 ---
 
-## 🎯 Currently Grinding
+## 🎯 Currently....
 
 - 🖥️ Learning how to write assembly (I can only read it lol)
 - 🎮 Creating a game  
