@@ -39,4 +39,4 @@ I'm an aspiring **Systems Programmer** who loves tinkering with everything from 
 
 ---
 
-> **PS:**If my programming skills don't impress you, maybe my poetry skills will 😏.
+> **PS:** If my programming skills don't impress you, maybe my poetry skills will 😏.
