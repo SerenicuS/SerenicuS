@@ -29,7 +29,11 @@ jobs:
           mkdir -p output
           mv dist/*.svg output/
 
+      - name: Verify SVG output
+        run: ls -R output
+
       - name: Commit and push generated SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update pacman contribution graph"
+          add: "output/*.svg"
