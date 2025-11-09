@@ -30,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
 ###
@@ -60,7 +64,7 @@
 
 ###
 
-<p align="left">- 🖥️ Learning how to write assembly (I can only read it lol)<br>- 🎮 Creating a game  <br>- 📝 Writing poems (Does that even count as tech?)<br>- 🔍 Practicing reverse engineering</p>
+<p align="left">- 🖥️ Learning new concepts <br>- 🎮 Creating a game  <br>- 📝 Writing poems (Does that even count as tech?)<br>- 🚀 Preparing for finals exam</p>
 
 ###
 
