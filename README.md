@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">- 🖥️ Learning new concepts <br>- 🎮 Creating a game  <br>- 📝 Writing poems (Does that even count as tech?)<br>- 🚀 Preparing for finals exam</p>
+<p align="left">- 🖥️ Learning new concepts <br>- 🎮 Playing Games  <br>- 📝 Writing poems (Does that even count as tech?)<br>
 
 ###
 
