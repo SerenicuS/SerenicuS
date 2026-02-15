@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an aspiring Systems Programmer who loves tinkering with everything from mid-level to high-level languages.</p>
+<p align="left">I want to become a Systems Programmer that loves tinkering with everything from mid-level to high-level languages.</p>
 
 ###
 
