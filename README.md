@@ -43,7 +43,7 @@ A dynamic GitHub profile README generator that creates animated SVG banners with
 1. **Fork this repo** (or use "Use this template") and rename it to your GitHub username.
 2. Copy the example config:
    ```bash
-   cp config.example.yml config.yml
+   cp config.yml config.yml
    ```
 3. Edit `config.yml` with your details (username, name, tagline, tech stack, projects, etc.)
 4. Replace `README.md` with the contents of [`README.profile.md`](README.profile.md) and customize the social links.
@@ -63,7 +63,7 @@ A dynamic GitHub profile README generator that creates animated SVG banners with
 
 ## Configuration Reference
 
-All configuration lives in `config.yml`. See [`config.example.yml`](config.example.yml) for a fully commented template.
+All configuration lives in `config.yml`. See [`config.yml`](config.yml) for a fully commented template.
 
 | Section | Description |
 |---------|-------------|
@@ -93,12 +93,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Copy the example config and customize it
-cp config.example.yml config.yml
+cp config.yml config.yml
 ```
 
 ### Generating SVGs
 
-**Demo mode** — no API calls, uses sample data from `config.example.yml`:
+**Demo mode** — no API calls, uses sample data from `config.yml`:
 
 ```bash
 python -m generator.main --demo
@@ -173,7 +173,7 @@ Contributions are welcome! Here's how to help:
    - Test your SVGs in a browser to verify animations render
    - Open a PR against `main` with a clear description
 
-**Code guidelines:** SVG templates live in `generator/templates/` (one file per section). Config schema lives in `generator/config.py`. Don't commit `config.yml` (it's gitignored) — update `config.example.yml` for new config options. Keep PRs focused: one feature or fix per PR.
+**Code guidelines:** SVG templates live in `generator/templates/` (one file per section). Config schema lives in `generator/config.py`. Don't commit `config.yml` (it's gitignored) — update `config.yml` for new config options. Keep PRs focused: one feature or fix per PR.
 
 ## Architecture
 

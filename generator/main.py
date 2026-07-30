@@ -39,7 +39,7 @@ def generate(args):
 
     # Load config
     if demo:
-        config_path = os.path.join(os.path.dirname(__file__), "..", "config.example.yml")
+        config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
     else:
         config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
 
@@ -48,9 +48,9 @@ def generate(args):
             config = yaml.safe_load(f)
     except FileNotFoundError:
         if demo:
-            logger.error("config.example.yml not found.")
+            logger.error("config.yml not found.")
         else:
-            logger.error("config.yml not found. Copy config.example.yml to config.yml and edit it.")
+            logger.error("config.yml not found. Copy config.yml to config.yml and edit it.")
         sys.exit(1)
 
     try:
@@ -121,14 +121,14 @@ def main():
     gen_parser.add_argument(
         "--demo",
         action="store_true",
-        help="Generate SVGs with demo data (no API calls, uses config.example.yml)",
+        help="Generate SVGs with demo data (no API calls, uses config.yml)",
     )
 
     # Top-level --demo for backward compatibility (python -m generator.main --demo)
     parser.add_argument(
         "--demo",
         action="store_true",
-        help="Generate SVGs with demo data (no API calls, uses config.example.yml)",
+        help="Generate SVGs with demo data (no API calls, uses config.yml)",
     )
 
     args = parser.parse_args()
