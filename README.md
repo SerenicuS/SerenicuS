@@ -35,8 +35,6 @@
 
 BSIT Student passionate about systems programming and compiler design.
 
-*"Poetry and Programming are the same; the only difference lies in who reads it."*
-
 Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
 
 **Currently at** HiveMind — Davao City, Philippines
@@ -47,6 +45,7 @@ Forging tools in Rust & C. Interested in mid to high-level architecture and tran
 - Compiler & Transpiler Design (built my own basic language!)
 - Legacy Maintainer
 - Low-level Management
+- Poetry
 
 </details>
 
