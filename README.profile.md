@@ -33,19 +33,36 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+BSIT Student passionate about systems programming and compiler design.
 
-**Currently at** Stellar Labs — San Francisco, CA
+*"Poetry and Programming are the same; the only difference lies in who reads it."*
+
+Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
+
+**Currently at** HiveMind — Davao City, Philippines
+
+**Focus Areas:**
+- Systems Programming
+- Mid to High-Level Architecture
+- Compiler & Transpiler Design (built my own basic language!)
+- Legacy Maintainer
+- Low-level Management
+
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:alonsagayharold@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/harold-karl-franze-alonsagay-95b1a82a5/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SerenicuS">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffb020" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/HKFA2002">
+    <img src="https://img.shields.io/badge/-Facebook-080c14?style=for-the-badge&logo=facebook&logoColor=00d4ff" alt="Facebook"/>
   </a>
 </div>
