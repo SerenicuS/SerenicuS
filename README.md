@@ -37,7 +37,7 @@ BSIT Student passionate about systems programming and compiler design.
 
 Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
 
-**Currently at** HiveMind — Davao City, Philippines
+**Currently at** Davao City, Philippines
 
 **Focus Areas:**
 - Systems Programming
