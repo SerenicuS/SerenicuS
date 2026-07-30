@@ -69,18 +69,22 @@ projects:
     arm: 2
     description: "Terminal-based text editor with buffer management and cursor tracking. Focus: Text processing & terminal UI."
 
-# Theme color overrides — Dark Gray-Blue "Abyssal" Palette
-# Inspired by deep ocean trenches and stormy night skies
+# Theme — Deep Space "Interstellar" Palette
+# Rich contrast with warm starlight and cool nebula tones
 theme:
-  void: "#0b0e14"              # Deepest abyss — almost black with a hint of blue
-  nebula: "#111820"            # Card backgrounds — dark slate
-  star_dust: "#1e2a36"         # Borders, dividers — muted steel blue
-  synapse_cyan: "#5bc0eb"      # Primary accent — soft electric blue (less neon, more atmospheric)
-  dendrite_violet: "#8b9dc3"   # Secondary accent — dusty periwinkle blue
-  axon_amber: "#6c8ba0"        # Tertiary accent — muted gray-blue (replaces amber for a cooler tone)
-  text_bright: "#e8edf5"       # Primary text — icy white-blue
-  text_dim: "#9bb0c4"          # Secondary text — soft gray-blue
-  text_faint: "#5a6f82"        # Muted text, labels — deep shadow blue
+  void: "#07090d"              # Absolute black of space
+  nebula: "#0e1420"            # Deep navy-slate for cards
+  star_dust: "#1c2538"         # Dusty blue-gray for borders
+
+  # Primary accents — warm, like starlight
+  synapse_cyan: "#f0c27f"      # Warm gold/amber (like a distant sun)
+  dendrite_violet: "#b48ead"   # Soft dusty rose (like a reflection nebula)
+  axon_amber: "#7aa2c9"        # Cool starlight blue (contrast to warm accents)
+
+  # Text — crisp with a hint of warmth
+  text_bright: "#f0ece3"       # Warm off-white (like paper under starlight)
+  text_dim: "#b8b0a0"          # Soft warm gray
+  text_faint: "#6a5f4e"        # Deep shadow brown-gray
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
