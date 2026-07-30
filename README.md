@@ -32,18 +32,21 @@
 <summary><strong>More about me</strong></summary>
 
 <br/>
-Hello, My name is Harold Karl Franze R. Alonsagay. 
-I'm a BSIT Student passionate about systems programming and compiler design.
-Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
-I am also a poet and a conceptual writer.
-**Currently at** Davao City, Philippines
+
+**Harold Karl Franze R. Alonsagay**  
+*BSIT Student | Systems Programmer*
+
+Systems programming & compiler design.  
+Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.  
+Also a poet and conceptual writer.
+
+📍 Davao City, Philippines
 
 **Focus Areas:**
 - Systems Programming
+- Compiler & Transpiler Design
 - Mid to High-Level Architecture
-- Compiler & Transpiler Design (built my own basic language!)
 - Legacy Maintainer
-- Low-level Management
 - Poetry
 
 </details>
