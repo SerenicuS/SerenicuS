@@ -375,7 +375,7 @@
     <text x="425" y="160" text-anchor="middle" fill="#1c5eff" font-size="14" font-weight="bold" font-family="monospace">H</text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#f8f9fa" font-size="20" font-weight="bold" font-family="sans-serif">HKꟻ∀ SerenicuS</text>
-  <text x="425" y="44" text-anchor="middle" fill="#9ca6b8" font-size="12" font-family="sans-serif">Systems Programmer &amp; Tooling Architect</text>
+  <text x="425" y="26" text-anchor="middle" fill="#f8f9fa" font-size="20" font-weight="bold" font-family="sans-serif">HKꟻ∀</text>
+  <text x="425" y="44" text-anchor="middle" fill="#9ca6b8" font-size="12" font-family="sans-serif">Aspiring Systems Programmer &amp; Tooling Architect</text>
   <text x="425" y="268" text-anchor="middle" fill="#4b5a75" font-size="11" font-family="monospace" font-style="italic">&quot;Poetry and Programming are the same; the only difference lies in who reads it.&quot;</text>
 </svg>
