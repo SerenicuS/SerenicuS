@@ -32,7 +32,7 @@
 <summary><strong>More about me</strong></summary>
 
 <br/>
-Hello, My name is Harold Karl Franze R. Alonsagay.
+Hello, My name is Harold Karl Franze R. Alonsagay. 
 I'm a BSIT Student passionate about systems programming and compiler design.
 Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
 I am also a poet and a conceptual writer.
