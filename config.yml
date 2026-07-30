@@ -6,14 +6,11 @@ username: SerenicuS
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "HKꟻ∀ SerenicuS"
-  tagline: "Systems Programmer & Tooling Architect"
+  name: "HKꟻ∀"
+  tagline: "Aspiring Systems Programmer & Tooling Architect"
   company: "HiveMind"
   location: "Davao City, Philippines"
-  bio: |
-    BSIT Student passionate about systems programming and compiler design.
-    "Poetry and Programming are the same; the only difference lies in who reads it."
-    Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
+  bio: "BSIT Student passionate about systems programming and compiler design."
   philosophy: '"Poetry and Programming are the same; the only difference lies in who reads it."'
 
 # Social links displayed at the bottom of the profile
