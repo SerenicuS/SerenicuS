@@ -72,19 +72,19 @@ projects:
 # Theme — Hubble Deep Field Palette
 # Rich, varied colors inspired by actual deep space imagery
 theme:
-  void: "#05080f"              # True void black
-  nebula: "#0c1428"            # Deep indigo-navy for cards
-  star_dust: "#1a2744"         # Dusty blue borders
+  void: "#020409"              # The absolute cold black of the space background
+  nebula: "#111826"            # Dark navy drawn from the skirt and deep shadows
+  star_dust: "#232f45"         # Dusty steel-blue from the rock and wing shadows
 
-  # Primary accents — actual nebula colors
-  synapse_cyan: "#4a9eff"      # Bright blue (like a young star's glow)
-  dendrite_violet: "#b48adc"   # Nebula violet/purple (like the Orion Nebula)
-  axon_amber: "#f7c948"        # Warm golden starlight (like our Sun)
+  # Primary accents — drawn directly from the image's focal points
+  synapse_cyan: "#1c5eff"      # Electric deep blue from the astronaut's visor and suit accents
+  dendrite_violet: "#677b9c"   # Cool, desaturated steel-blue from the wings (replaces the bright purple)
+  axon_amber: "#e6dad3"        # Pale, muted lunar warmth from the skin tones (replaces the bright yellow)
 
-  # Text — crisp with subtle warmth
-  text_bright: "#f0ecf5"       # Slightly warm off-white
-  text_dim: "#a8b8d0"          # Soft gray-blue
-  text_faint: "#4a5a78"        # Deep shadow blue
+  # Text — stark and high-contrast
+  text_bright: "#f8f9fa"       # Brilliant white from the astronaut suit and hair
+  text_dim: "#9ca6b8"          # Mid-tone cool gray from the shading
+  text_faint: "#4b5a75"        # Deep shadow gray
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
