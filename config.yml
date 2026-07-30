@@ -14,7 +14,7 @@ profile:
     BSIT Student passionate about systems programming and compiler design.
     "Poetry and Programming are the same; the only difference lies in who reads it."
     Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
-  philosophy: '"The best tools are the ones that make the impossible feel intuitive."'
+  philosophy: '"Poetry and Programming are the same; the only difference lies in who reads it."'
 
 # Social links displayed at the bottom of the profile
 social:
@@ -69,18 +69,18 @@ projects:
     arm: 2
     description: "Terminal-based text editor with buffer management and cursor tracking. Focus: Text processing & terminal UI."
 
-# Theme color overrides (optional — defaults to deep space palette)
-# All values must be valid hex color codes (#RRGGBB)
+# Theme color overrides — Dark Gray-Blue "Abyssal" Palette
+# Inspired by deep ocean trenches and stormy night skies
 theme:
-  void: "#080c14"              # Darkest background
-  nebula: "#0f1623"            # Card backgrounds
-  star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
-  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
-  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
-  text_bright: "#f1f5f9"       # Primary text
-  text_dim: "#94a3b8"          # Secondary text
-  text_faint: "#64748b"        # Muted text, labels
+  void: "#0b0e14"              # Deepest abyss — almost black with a hint of blue
+  nebula: "#111820"            # Card backgrounds — dark slate
+  star_dust: "#1e2a36"         # Borders, dividers — muted steel blue
+  synapse_cyan: "#5bc0eb"      # Primary accent — soft electric blue (less neon, more atmospheric)
+  dendrite_violet: "#8b9dc3"   # Secondary accent — dusty periwinkle blue
+  axon_amber: "#6c8ba0"        # Tertiary accent — muted gray-blue (replaces amber for a cooler tone)
+  text_bright: "#e8edf5"       # Primary text — icy white-blue
+  text_dim: "#9bb0c4"          # Secondary text — soft gray-blue
+  text_faint: "#5a6f82"        # Muted text, labels — deep shadow blue
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
