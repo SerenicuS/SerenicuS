@@ -1,56 +1,54 @@
 # Galaxy Profile README Configuration
 # Copy this file to config.yml and customize it to make it your own!
-#
-# Usage:
-#   cp config.example.yml config.yml
-#   # Edit config.yml with your details
-#   python -m generator.main
-#
-# Demo mode (no API calls, uses this file directly):
-#   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: SerenicuS
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  name: "HKꟻ∀ SerenicuS"
+  tagline: "Systems Programmer & Tooling Architect"
+  company: "HiveMind"
+  location: "Davao City, Philippines"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    BSIT Student passionate about systems programming and compiler design.
+    "Poetry and Programming are the same; the only difference lies in who reads it."
+    Forging tools in Rust & C. Interested in mid to high-level architecture and transpiler design.
+  philosophy: '"The best tools are the ones that make the impossible feel intuitive."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "alonsagayharold@gmail.com"
+  linkedin: "harold-karl-franze-alonsagay-95b1a82a5"
+  github: "SerenicuS"
+  facebook: "HKFA2002"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Frontend"
-    color: "dendrite_violet"
-    items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
-  - name: "Backend"
+  - name: "Systems Programming"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
-      - "PostgreSQL"
-  - name: "DevOps"
+      - "Rust"
+      - "C"
+      - "C#"
+      - "Java"
+  - name: "Language Design"
+    color: "dendrite_violet"
+    items:
+      - "Compiler Theory"
+      - "Lexing"
+      - "Parsing"
+      - "Code Generation"
+      - "Transpiler Design"
+  - name: "Terminal Tools"
     color: "axon_amber"
     items:
-      - "Docker"
-      - "GitHub Actions"
-      - "AWS"
+      - "Shell Scripting"
+      - "Process Management"
+      - "File I/O"
+      - "Terminal UI"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +56,18 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "SerenicuS/MommySuite"
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+    description: "Custom Rust shell with command execution, piping, and redirections. Focus: Systems programming & process management."
+  - repo: "SerenicuS/MommySuite"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "Esoteric language compiler targeting C with lexing, parsing, and code generation. Focus: Language design & compiler theory."
+  - repo: "SerenicuS/custom-shell"
+    arm: 0
+    description: "Lightweight shell in pure C with built-in commands and file I/O. Focus: Low-level systems programming."
+  - repo: "SerenicuS/custom-text-editor"
+    arm: 2
+    description: "Terminal-based text editor with buffer management and cursor tracking. Focus: Text processing & terminal UI."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
