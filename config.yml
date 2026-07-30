@@ -69,22 +69,22 @@ projects:
     arm: 2
     description: "Terminal-based text editor with buffer management and cursor tracking. Focus: Text processing & terminal UI."
 
-# Theme — Deep Space "Interstellar" Palette
-# Rich contrast with warm starlight and cool nebula tones
+# Theme — Hubble Deep Field Palette
+# Rich, varied colors inspired by actual deep space imagery
 theme:
-  void: "#07090d"              # Absolute black of space
-  nebula: "#0e1420"            # Deep navy-slate for cards
-  star_dust: "#1c2538"         # Dusty blue-gray for borders
+  void: "#05080f"              # True void black
+  nebula: "#0c1428"            # Deep indigo-navy for cards
+  star_dust: "#1a2744"         # Dusty blue borders
 
-  # Primary accents — warm, like starlight
-  synapse_cyan: "#f0c27f"      # Warm gold/amber (like a distant sun)
-  dendrite_violet: "#b48ead"   # Soft dusty rose (like a reflection nebula)
-  axon_amber: "#7aa2c9"        # Cool starlight blue (contrast to warm accents)
+  # Primary accents — actual nebula colors
+  synapse_cyan: "#4a9eff"      # Bright blue (like a young star's glow)
+  dendrite_violet: "#b48adc"   # Nebula violet/purple (like the Orion Nebula)
+  axon_amber: "#f7c948"        # Warm golden starlight (like our Sun)
 
-  # Text — crisp with a hint of warmth
-  text_bright: "#f0ece3"       # Warm off-white (like paper under starlight)
-  text_dim: "#b8b0a0"          # Soft warm gray
-  text_faint: "#6a5f4e"        # Deep shadow brown-gray
+  # Text — crisp with subtle warmth
+  text_bright: "#f0ecf5"       # Slightly warm off-white
+  text_dim: "#a8b8d0"          # Soft gray-blue
+  text_faint: "#4a5a78"        # Deep shadow blue
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
